@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ghamdi.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\ghamdi.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrollbar_vertical_thumb.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\scrollbar_vertical_thumb.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\my_custom_background.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\my_custom_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiohome.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\radiohome.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\play.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contact.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\contact.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speaker.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\speaker.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_logo.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\radio_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\aabad.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\aabad.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrollbar_vertical_track.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\scrollbar_vertical_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\about.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ajmy.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\ajmy.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\10.2.1\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pause.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\pause.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\speakerlucked.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable\\speakerlucked.png"
+    }
+]

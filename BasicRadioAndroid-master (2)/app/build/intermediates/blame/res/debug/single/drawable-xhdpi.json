@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\black_fill.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable-xhdpi\\black_fill.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\sms_icon.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable-xhdpi\\sms_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\phone_icon.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable-xhdpi\\phone_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\play_icon.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable-xhdpi\\play_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\website_icon.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable-xhdpi\\website_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\webcam.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable-xhdpi\\webcam.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\background_main.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable-xhdpi\\background_main.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\email_icon.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable-xhdpi\\email_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\stop_icon.png",
+        "source": "C:\\Users\\BegHead\\projects\\BasicRadioAndroid-master\\app\\src\\main\\res\\drawable-xhdpi\\stop_icon.png"
+    }
+]

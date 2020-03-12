@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:app="http://schemas.android.com/apk/res-auto"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:orientation="vertical" android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:weightSum="1">
+
+  <RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="143dp"
+    android:layout_weight="0.20">
+
+    <SeekBar
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:id="@+id/seekBar"
+      android:layout_below="@+id/textView"
+      android:layout_toRightOf="@+id/imageButton"
+      android:layout_marginLeft="12dp"
+      android:layout_marginStart="12dp"
+      android:layout_alignParentRight="true"
+      android:layout_alignParentEnd="true"
+      android:layout_marginTop="10dp"
+      android:layout_marginBottom="5dp" />
+
+    <LinearLayout
+      android:orientation="horizontal"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:layout_alignParentLeft="true"
+      android:layout_alignParentStart="true"
+      android:layout_below="@+id/seekBar"
+      android:layout_alignParentBottom="true"
+      android:layout_marginTop="10dp">
+
+      <FrameLayout
+        android:layout_width="114dp"
+        android:layout_height="match_parent">
+
+        <ImageView
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          app:srcCompat="@drawable/ic_launcher"
+          android:id="@+id/imageView3" />
+      </FrameLayout>
+
+      <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="50">
+
+        <LinearLayout
+          android:orientation="vertical"
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+          android:layout_weight="60">
+
+          <TextView
+            android:text="Quran Channel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView3"
+            android:layout_marginLeft="20dp"
+            android:textStyle="normal|bold"
+            android:textSize="18sp"
+            android:fontFamily="sans-serif"
+            android:textColor="@color/common_google_signin_btn_text_dark_focused" />
+
+          <TextView
+            android:text="Radio Station"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/textView5"
+            android:textStyle="normal|bold"
+            android:textSize="15sp" />
+
+          <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+              android:text="Details"
+              android:id="@+id/textView6"
+              android:textStyle="normal|italic"
+              android:gravity="left"
+              android:layout_height="fill_parent"
+              android:layout_width="fill_parent"
+              android:maxLines="4"
+              android:lines="4"
+              android:layout_weight="1"
+              android:textSize="10sp" />
+
+          </LinearLayout>
+        </LinearLayout>
+
+        <FrameLayout
+          android:layout_width="114dp"
+          android:layout_height="match_parent">
+
+          <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/play"
+            android:id="@+id/button3" />
+        </FrameLayout>
+
+      </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+      android:layout_width="30dp"
+      android:layout_height="30dp"
+      android:id="@+id/imageButton"
+      android:background="@drawable/speaker"
+      android:layout_marginLeft="20dp"
+      android:layout_marginStart="20dp"
+      android:padding="15dp"
+      android:layout_alignParentTop="true"
+      android:layout_alignParentLeft="true"
+      android:layout_alignParentStart="true"
+      android:layout_marginTop="5dp" />
+
+
+  </RelativeLayout>
+
+  <Space
+    android:layout_width="match_parent"
+    android:layout_height="11dp" />
+
+  <GridView
+    android:layout_width="match_parent"
+    android:layout_height="373dp"
+    android:id="@+id/gridview"
+    android:layout_weight="0.80"
+    android:columnWidth="33dp"
+    android:numColumns="3"
+    style="@style/scrollbar_shape_style"
+    android:paddingTop="5px"
+    android:paddingLeft="5px"
+    android:paddingRight="5px" />
+
+  <Space
+    android:layout_width="match_parent"
+    android:layout_height="108dp" />
+
+</LinearLayout>
